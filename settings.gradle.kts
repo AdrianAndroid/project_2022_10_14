@@ -1,0 +1,1 @@
+rootProject.name = "project_2022_10_14"
